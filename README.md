@@ -4,5 +4,6 @@ Data analysis is a way to explore essential findings and communicate patterns fo
 The data I used in this mini project are :
 1. Salaries data (https://www.kaggle.com/rsadiq/salary). This data consists of the salary and years of experience of 35 jobholders. 
 2. audi.csv, hyundai.csv, toyota.csv (https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes?select=toyota.csv). The data set contains price, transmission, mileage, fuel type, road tax, miles per gallon (mpg), and engine size.
+
 An error can cause missing value in retrieving data or because the data is not available. In statistics, a missing value can interfere with the analysis and cause bias. Therefore, the ability to detect and handle missing values is essential as a Data Scientist. Data aggregation is the process of collecting and compiling data into a summary. The results of data aggregation are carried out to answer specific business objectives or for further analysis. Furthermore, I use Pandas to view basic statistics in specific columns.
 
